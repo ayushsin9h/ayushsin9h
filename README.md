@@ -61,26 +61,25 @@ Currently, I serve as the **Microsoft Student Ambassadors (MSA), GNIT Chapter Le
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsin9h&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsingh&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsin9h&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsin9h&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
   <h3>📫 Connect with me</h3>
-  <a href="https://linkedin.com/in/ayushsingh">
+  <a href="https://linkedin.com/in/ayushsin9h">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kayushsingh1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
