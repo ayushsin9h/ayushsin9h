@@ -69,8 +69,9 @@ Currently, I serve as the **Microsoft Student Ambassadors (MSA), GNIT Chapter Le
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
+
 
 ---
 
