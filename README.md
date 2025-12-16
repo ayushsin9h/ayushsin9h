@@ -66,12 +66,9 @@ Currently, I serve as the **Microsoft Student Ambassadors (MSA), GNIT Chapter Le
   <img src="https://github-readme-stats.vercel.app/api?username=ayushsin9h&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata&refresh=please" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
-
 
 ---
 
