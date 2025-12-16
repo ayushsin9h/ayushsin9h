@@ -69,7 +69,7 @@ Currently, I serve as the **Microsoft Student Ambassadors (MSA), GNIT Chapter Le
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata&refresh=please" alt="GitHub Streak" />
 </div>
 
 
