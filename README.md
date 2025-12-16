@@ -53,7 +53,7 @@ Currently, I serve as the **Microsoft Student Ambassadors (MSA), GNIT Chapter Le
 
 | **Project** | **Description** | **Tech Stack** |
 |:---:|:---|:---:|
-[**Steganography** **LIVE**](https://steganography-secure.streamlit.app) | A dual-layer defense system hiding data in images. Achieved **99.8% Visual Fidelity (SSIM)**. | `Python` `OpenCV` `NumPy` |
+| [**Steganography** **LIVE**](https://steganography-secure.streamlit.app) | A dual-layer defense system hiding data in images. Achieved **99.8% Visual Fidelity (SSIM)**. | `Python` `OpenCV` `NumPy` |
 | [**WanderStay** **LIVE**](https://wanderstay.streamlit.app)| Conversational hotel recommendation bot. Reduced user search time by **40%**. | `NLTK` `Scikit-learn` `Streamlit` |
 
 ---
