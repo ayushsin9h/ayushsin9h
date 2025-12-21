@@ -12,7 +12,7 @@
 
 I am a **curious** student
 
-Currently, I serve as the [**Microsoft Student Ambassadors (MSA), GNIT Chapter Lead**](https://linktr.ee/msagnit ), where I have scaled the community by **69%** and organized workshops for over **200+ students**. I am passionate about building secure systems and AI-driven applications for solving real world problems which are often overlooked by all of us.
+Currently, I serve as the [**Microsoft Student Ambassadors (MSA), GNIT Chapter**](https://linktr.ee/msagnit ) **(Chapter Lead)**, where I have scaled the community by **69%** and organized workshops for over **200+ students**. I am passionate about building secure systems and AI-driven applications for solving real world problems which are often overlooked by all of us.
 
 - 🔭 **I’m currently working on:** Cloud Computing.
 - 👯 **I’m looking to collaborate on:** Open Source Java/Python projects and Agentic AI.
