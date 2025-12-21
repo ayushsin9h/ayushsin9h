@@ -17,6 +17,7 @@ Currently, I serve as the **Microsoft Student Ambassadors (MSA), GNIT Chapter Le
 - 🔭 **I’m currently working on:** Cloud Computing.
 - 👯 **I’m looking to collaborate on:** Open Source Java/Python projects and Agentic AI.
 - 💬 **Ask me about:** Programming, Cybersecurity, Artificial Intelligence and Community Building Strategies.
+- 🔍 **Know more about me:** [CLICK-HERE](https://tr.ee/8uQm4U)
 
 ---
 
