@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Ayush Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=MSA+Lead+%40+GNIT+Chapter;Microsoft+Student+Ambassador;B.Tech+CSE+Undergrad;Java+%26+Python+Developer;Cloud+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=MSA+Lead+%40+GNIT+Chapter;Microsoft+Student+Ambassador;Java+%26+Python+Developer;Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
