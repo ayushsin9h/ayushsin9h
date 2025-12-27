@@ -20,7 +20,7 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 - 🔭 **I’m currently working on:** Cloud Computing.
 - 👯 **I’m looking to collaborate on:** Open Source Java/Python projects and Agentic AI.
 - 💬 **Ask me about:** Programming, Cybersecurity, Artificial Intelligence and Community Building Strategies.
-- 🔍 **Know more about me:** <a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=white" valign="middle" /></a>
+- 🔍 **Know more about me:** <a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=white" valign="middle" height="50"/></a>
 
 ---
 
@@ -55,7 +55,7 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 
 | <div align="center"><h3>⚡ Live Projects</h3></div> | <div align="center"><h3>📂 Project Portfolio</h3></div> |
 |:---:|:---:|
-| <br><strong>Explore my centralized dashboard.</strong><br><br>Contains all my **Live Deployed Applications**,<br>engineering case studies, and<br>source code in one place.<br><br> | <br><a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Visit_My_Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="50" /></a><br><br> |
+| <br><strong>Explore my centralized dashboard.</strong><br><br>Contains all my **Live Deployed Applications**,<br>engineering case studies, and<br>source code in one place.<br><br> | <br><a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Visit_My_Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="40" /></a><br><br> |
 
 ### 📊 GitHub Analytics
 
