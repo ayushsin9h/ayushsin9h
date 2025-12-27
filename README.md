@@ -53,9 +53,12 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 
 ### 🚀 Featured Projects
 
-| <div align="center"><h3>⚡ Live Projects</h3></div> | <div align="center"><h3>📂 Project Portfolio</h3></div> |
-|:---:|:---:|
-| <br><strong>Explore my centralized dashboard.</strong><br><br>Contains all my **Live Deployed Applications**,<br>engineering case studies, and<br>source code in one place.<br><br> | <br><a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Visit_My_Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="30" /></a><br><br> |
+| **Project** | **Description** | **Tech Stack** |
+|:---:|:---|:---:|
+| [**Steganography** **LIVE**](https://steganography-secure.streamlit.app) | A dual-layer defense system hiding data in images. Achieved **99.8% Visual Fidelity (SSIM)**. | `Python` `OpenCV` `NumPy` |
+| [**WanderStay** **LIVE**](https://wanderstay.streamlit.app)| Conversational hotel recommendation bot. Reduced user search time by **40%**. | `NLTK` `Scikit-learn` `Streamlit` |
+
+---
 
 ### 📊 GitHub Analytics
 
