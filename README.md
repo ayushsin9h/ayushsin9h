@@ -20,7 +20,7 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 - 🔭 **I’m currently working on:** Cloud Computing.
 - 👯 **I’m looking to collaborate on:** Open Source Java/Python projects and Agentic AI.
 - 💬 **Ask me about:** Programming, Cybersecurity, Artificial Intelligence and Community Building Strategies.
-- 🚀 **Explore my Live Projects:** [**Project Portfolio**](https://linkedin.com/in/ayushsin9h)
+- 🚀 **Explore my Live Projects:** [**Project Portfolio**](https://linktr.ee/ayushsin9h)
 - 🔍 **Know more about me:** [**CLICK HERE**](https://tr.ee/8uQm4U)
 
 ---
