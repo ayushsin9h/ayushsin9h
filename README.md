@@ -53,9 +53,9 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 
 ### 🚀 Featured Projects
 
-| **⚡ Live Projects** | **📂 Project Portfolio** |
-|:---|:---:|
-| A centralized dashboard of all my **Live Deployed Applications**, engineering case studies, and source code. | <a href="https://linktr.ee/ayushsin9h"><img src="https://img.shields.io/badge/Linktree-View_Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a> |
+| <div align="center"><h3>⚡ Live Projects</h3></div> | <div align="center"><h3>📂 Project Portfolio</h3></div> |
+|:---:|:---:|
+| <br><strong>Explore my centralized dashboard.</strong><br><br>Contains all my **Live Deployed Applications**,<br>engineering case studies, and<br>source code in one place.<br><br> | <br><a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Visit_My_Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="50" /></a><br><br> |
 
 ### 📊 GitHub Analytics
 
