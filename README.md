@@ -56,11 +56,11 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsin9h&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsin9h&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsin9h&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ayushsin9h&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak" />
 </div>
 
 ---
