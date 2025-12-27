@@ -20,7 +20,7 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 - 🔭 **I’m currently working on:** Cloud Computing.
 - 👯 **I’m looking to collaborate on:** Open Source Java/Python projects and Agentic AI.
 - 💬 **Ask me about:** Programming, Cybersecurity, Artificial Intelligence and Community Building Strategies.
-- 🔍 **Know more about me:** <a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=white" valign="middle" height="50"/></a>
+- 🔍 **Know more about me and my LIVE projects:** <a href="https://tr.ee/8uQm4U"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=white" valign="middle" height="50"/></a>
 
 ---
 
