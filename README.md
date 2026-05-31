@@ -54,13 +54,13 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 
 </div>
 
-### 🚀 Featured Data & AI Projects
+###  Featured Data & AI Projects 🚀
 
 | **Project** | **Description** | **Tech Stack** |
 |:---|:---|:---:|
 | [**Empathetic Buddy**](https://github.com/ayushsin9h/AI-IN-MENTAL-HEALTH-AND-EMOTIONAL-SUPPORT) | Clinical AI architecture acting as an emotional support system. **Finalist (Top 15)** at the OpenAImer 2026 GenAI Hackathon. | `Llama 3.1 8B` `ChromaDB` |
 | [**LAIF (Aadhaar Framework)**](https://github.com/ayushsin9h/UIDAI-DATA-HACKATHON-26) | Lifecycle-Aware Aadhaar Intelligence Framework analyzing enrollment and biometric update trends across **760+ districts** for the UIDAI Datathon 2026. | `Data Science` `Pandas` |
-| [**Malicious Prompt Detector**](https://github.com/ayushsin9h/Data-Sprint-26) | A 3-way ensemble model built for the Data Sprint ML Hackathon. Achieved **98.3% precision** in detecting malicious intent. | `LightGBM` `Logistic Regression` |
+| [**iRage-AlgoArena**](https://github.com/ayushsin9h/iRage-AlgoArena) | ML pipeline for the **iRage Quant Finance Challenge** to predict short-horizon market returns. Extracted alpha using row-wise feature engineering and memory-optimized ensemble models on anonymized tabular data. | `LightGBM` `Pandas` |
 
 ---
 
