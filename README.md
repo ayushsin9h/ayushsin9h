@@ -24,12 +24,10 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 
 ### 🛠️ Technical Arsenal
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, SQL (MySQL), Bash/Shell |
-| **AI & Machine Learning** | scikit-learn, LightGBM, Llama 3.1, NLTK, OpenCV |
-| **Data Engineering** | Pandas, NumPy, Microsoft Fabric, ChromaDB |
-| **Cloud & DevOps** | Azure, Git, Streamlit |
+* **Software & Scripting:** Developing robust applications and automating workflows using Python, Java, and Shell Scripting.
+* **Data Science & Machine Learning:** Building predictive models and processing data using Pandas, NumPy, scikit-learn, and LightGBM.
+* **Generative AI & Computer Vision:** Implementing advanced AI solutions leveraging Llama 3.1, ChromaDB, NLTK, and OpenCV.
+* **Cloud & Infrastructure:** Deploying and managing data pipelines and applications using Microsoft Azure, Microsoft Fabric, Streamlit, and Git.
 
 
 ###  Featured Data & AI Projects 🚀
