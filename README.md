@@ -24,35 +24,13 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 
 ### 🛠️ Technical Arsenal
 
-<div align="center">
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, SQL (MySQL), Bash/Shell |
+| **AI & Machine Learning** | scikit-learn, LightGBM, Llama 3.1, NLTK, OpenCV |
+| **Data Engineering** | Pandas, NumPy, Microsoft Fabric, ChromaDB |
+| **Cloud & DevOps** | Azure, Git, Streamlit |
 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-%23000000.svg?style=for-the-badge&logo=python&logoColor=white" />
-
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Llama_3.1-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-%23FF4B4B.svg?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" />
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-%233B82F6.svg?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-</div>
 
 ###  Featured Data & AI Projects 🚀
 
