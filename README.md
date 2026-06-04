@@ -18,7 +18,7 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 - 🔭 **I’m currently working on:** Predictive frameworks, GenAI architectures, and intent classification models.
 - 👯 **I’m looking to collaborate on:** Open Source ML/AI projects, NLP research, and LLM integrations.
 - 💬 **Ask me about:** Machine Learning (LightGBM, Logistic Regression), Data Science, Azure, and Microsoft Fabric.
-- 🔍 **Know more about my LIVE projects:** <a href="https://linktr.ee/ayushsin9h"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=white" valign="middle" height="25"/></a>
+- 🔍 **Know more about my LIVE projects:** <a href="https://linktr.ee/ayushsin9h"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=black" valign="middle" height="25"/></a>
 
 ---
 
