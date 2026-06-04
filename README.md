@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Machine Learning Practitioner** and Computer Science student at **Guru Nanak Institute of Technology**, deeply invested in building predictive frameworks, ensemble models, and intent classification systems. 
+I am a **Machine Learning Practitioner**, deeply invested in building predictive frameworks, ensemble models, and intent classification systems. 
 
 Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassadors (MSA), GNIT Chapter](https://linktr.ee/msagnit)**, where I have scaled the technical community to over **800+ members** (220% growth). I am passionate about leveraging data science, agentic AI, and cloud ecosystems to solve complex, real-world problems.
 
