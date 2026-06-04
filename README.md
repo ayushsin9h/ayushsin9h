@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Ayush Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Data+Science+Practitioner;Machine+Learning+Engineer;MSA+Lead+%40+GNIT;GenAI+%26+Cloud+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Learning+Data+Science;Machine+Learning+Practitioner;MSA+Lead+%40+GNIT;GenAI+%26+Cloud+Innovator" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@ Currently, I serve as the **Chapter Lead** of the **[Microsoft Student Ambassado
 - 🔭 **I’m currently working on:** Predictive frameworks, GenAI architectures, and intent classification models.
 - 👯 **I’m looking to collaborate on:** Open Source ML/AI projects, NLP research, and LLM integrations.
 - 💬 **Ask me about:** Machine Learning (LightGBM, Logistic Regression), Data Science, Azure, and Microsoft Fabric.
-- 🔍 **Know more about my LIVE projects:** <a href="https://linktr.ee/ayushsin9h"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=black" valign="middle" height="25"/></a>
+- 🔍 **Know more about my LIVE projects:** <a href="https://linktr.ee/ayushsin9h"><img src="https://img.shields.io/badge/Linktree-Everything_Here-39E09B?style=flat&logo=linktree&logoColor=white" valign="middle" height="25"/></a>
 
 ---
 
